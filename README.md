@@ -23,13 +23,10 @@ I am a passionate embedded systems developer with a keen interest in low-level p
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/assembly-007396.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/RTOS-007ACC.svg?style=for-the-badge&logo=rtos&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Microcontrollers-FF4154?style=for-the-badge&logo=microcontrollers&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/IoT-3578E5?style=for-the-badge&logo=iot&logoColor=white" />&nbsp;
 </div>
@@ -39,8 +36,6 @@ I am a passionate embedded systems developer with a keen interest in low-level p
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Keil-000000.svg?style=for-the-badge&logo=keil&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
 </div>
 
