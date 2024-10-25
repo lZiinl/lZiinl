@@ -47,7 +47,6 @@ I am a passionate embedded systems developer with a keen interest in low-level p
   <img src="https://github-readme-stats.vercel.app/api?username=lZiinl&show_icons=true&theme=radical" alt="lZiinl's GitHub stats" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lZiinl&layout=compact&theme=radical" alt="Top Languages" width="32%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lZiinl&theme=radical" alt="GitHub Streak" width="32%" />
-  [![코드트리|실력진단-ziin55](https://banner.codetree.ai/v1/banner/ziin55)](https://www.codetree.ai/profiles/ziin55)
 </div>
 
 <!--
@@ -74,5 +73,5 @@ Here are some of my notable projects:
 </div>
 
 ---
-
+<br>
 ⭐️ From [lZiinl](https://github.com/lZiinl)
