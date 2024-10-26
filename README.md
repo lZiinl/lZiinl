@@ -9,14 +9,6 @@
 ## About Me
 I am a passionate embedded systems developer with a keen interest in low-level programming and hardware-software integration. I enjoy creating and contributing to open-source projects and am always eager to learn new things and tackle new challenges.
 
-- 🔭 I’m currently working on an embedded systems project
-- 🌱 I’m currently learning real-time operating systems (RTOS)
-- 👯 I’m looking to collaborate on embedded systems and firmware development
-- 🤔 I’m looking for help with advanced C++ techniques in embedded systems
-- 💬 Ask me about C, C++, and embedded systems
-- 📫 How to reach me: lziinl@example.com
-- ⚡ Fun fact: I love tinkering with microcontrollers and building DIY electronics projects
-
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
