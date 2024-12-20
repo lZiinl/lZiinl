@@ -1,10 +1,12 @@
-<!--
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
--->
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h2 align="center">Hi there, I'm Jeonghun 👋</h2>
+</p>
 
-# Hi there, I'm Jeonghun 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+developer!;Raspberry+pi!;Arduino!;STM32!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" alt="Example Usage - README Typing SVG">
+</p>
+<br>
 
 ## About Me
 I am a passionate embedded systems developer with a keen interest in low-level programming and hardware-software integration. I enjoy creating and contributing to open-source projects and am always eager to learn new things and tackle new challenges.
