@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+developer!;Raspberry+pi!;Arduino!;STM32!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+developer!;Raspberry+pi!;Arduino+STM32!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" alt="Example Usage - README Typing SVG">
 </p>
 <br>
 
